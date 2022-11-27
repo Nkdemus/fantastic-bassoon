@@ -1,3 +1,3 @@
-# Python Mega Course (Udemy)
+# Test
 
-Projects from the python mega course by Ardit Sulce
+Test project
